@@ -1,7 +1,8 @@
 # Programming(PRG) Assignment - Ratventure
 This is a small game coded with python as a final assignment
 
-The game is a RPG like game with a coded map and enemies to battle. 
+## Objective
+The game is a RPG like game with a coded map and enemies to battle. You play as the hero, you are to venture through the map, fight the enemies along the way, and eventually reach the rat king. Face off against the rat king to save the world and return victorious!
 
 ## Features
 The games has several features that make it more fun and interesting
